@@ -50,8 +50,8 @@
 
 
     Application Structuring:
-    .
-    ├── assest/                  // rendered output (HTML), Images and CSS style sheet      
+    ├──
+    ├── assest                  // rendered output (HTML), Images and CSS style sheet      
     ├── .gitignore               // indicates which folders and files Git should ignore
     ├── index.html               // runs the application
     └── package.json           
