@@ -1,4 +1,5 @@
 ![badge](https://img.shields.io/badge/license-apache-blue)
+
 ![logo](https://user-images.githubusercontent.com/95839411/160957921-8c8485de-d5ff-41d2-874a-e9c18def966a.png)
 
 # Group Project #2: WanderLust
