@@ -1,0 +1,30 @@
+{
+  "name": "wanderlust",
+  "version": "1.0.0",
+  "description": "Social Media App",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArbiNazari/WanderLust.git"
+  },
+  "author": "Lanika, Rachel, Jose, Arbi, Nik, ED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArbiNazari/WanderLust/issues"
+  },
+  "homepage": "https://github.com/ArbiNazari/WanderLust#readme",
+  "dependencies": {
+    "bower": "^1.8.14",
+    "console.table": "^0.10.0",
+    "express": "^4.17.3",
+    "inquirer": "^8.2.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "norman": "^0.1.0",
+    "sequelize": "^6.17.0"
+  }
+}
