@@ -1,6 +1,4 @@
-![badge](https://img.shields.io/badge/license-apache-blue)
-  
-![logo](https://user-images.githubusercontent.com/95839411/160957526-be42717e-406d-43e4-92b2-14dccd3f581e.png)
+  ![badge](https://img.shields.io/badge/license-apache-blue)
 
 # Group Project #2: WanderLust
 
@@ -52,16 +50,12 @@
 
 
     Application Structuring:
-    .
-    ├── assest/                  // rendered output (HTML), Images and CSS style sheet      
+    ├──
+    ├── assest                  // rendered output (HTML), Images and CSS style sheet      
     ├── .gitignore               // indicates which folders and files Git should ignore
     ├── index.html               // runs the application
     └── package.json           
 
-
-After installing the required applications (Node.js) - run: node index.js
- 
-   Video Guide - [video guide](https://www.awesomescreenshot.com/video/7497518?key=39b1b50897de8d6ae47e34774bafb4f6)
   
   ## [License](#table-of-contents)
   The application is covered under the following license:
