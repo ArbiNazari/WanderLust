@@ -6,6 +6,7 @@ body, html {
   height: 100%;
   padding: 0;
   margin: 0;
+  background-color: #6fadee;
   font-family: sans-serif;
   color: #333;
 }
@@ -63,6 +64,12 @@ form > div {
 
 form label {
   display: block;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .wrapper {
