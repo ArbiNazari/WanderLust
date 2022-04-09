@@ -8,6 +8,7 @@
 .LSOverride
 node_modules
 .node_modules
+.env
 
 
 # Windows Installer files
