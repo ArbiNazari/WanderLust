@@ -6,18 +6,26 @@
 
   ## Table-of-Contents
   * [Description and Task](#description)
+  * [Required](#required)
   * [License](#license)   
-  * [Contributors](#Contributors)
+  * [Contributors](#contributors)
+  * [Demo](#demo)
   * [Questions](#questions)
 
 
  ## [Description](#table-of-contents)
- 
- ## WanderLust - Application Design and Function
+ WanderLust is a small scale social media platform for travelers and adventurers from all over the world. Our application's main features are as follows:
 
- In a world full of trolls, likes, dislikes and censorship, WanderLust.com is a platform
- designed to display the creativity of individuals and businesses without the agony
- of third party influences. 
+- Creating individual user profiles
+- The ability to upload pictures, including from mobile devices
+- Ability to delete pictures
+- Image feed with images from different users from all over the world
+- Images being displayed with most recent at the top of the feed
+- User authentication
+- User Sessions
+ 
+ ## [Required](#required)
+  NPM Install: Bcrypt, Connect-Session-Sequelize,Dotenv, Express, Express-fileupload, Express-Handlebars, Express-session, Handlebars, MySql2, Sequelize
 
 
  # Our Task and Application Requirments
@@ -59,16 +67,22 @@
     └── package.json           
 
   
-  ## [License](#table-of-contents)
+  ## [License](#license)
   The application is covered under the following license:
   
   [apache](https://choosealicense.com/licenses/apache)
     
     
-  ## [Contributors](#table-of-contents)
+  ## [Contributors](#contributors)
   
-    Rachel Schaff, Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar A. 
+    Rachel Schaaf, Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar Amezcua
     
-  ## [Questions](#table-of-contents)
+  ## [Demo](#demo)
+  <img src="./public/uploads/WanderLust.gif">
+
+
+  ## [Questions](#questions)
   Contact Information Below:
   [GitHub](https://github.com/ArbiNazari/WanderLust)
+
+  Deployed Application: https://stark-garden-15387.herokuapp.com/
