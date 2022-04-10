@@ -73,6 +73,7 @@
 
   ## [Video](#table-of-contents)
   - Video Presentation - [video guide](https://www.awesomescreenshot.com/video/8212028?key=c7bd96a5e6b4bb979d54ddb8934fc0b9)
+   ![main](https://user-images.githubusercontent.com/95839411/162623640-ef0618ae-6a04-44a7-b3c0-f3ae4b2467da.jpg)
 
   ## [Website](#table-of-contents)
   Deployed Application: https://sleepy-meadow-10807.herokuapp.com/
