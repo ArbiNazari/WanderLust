@@ -8,7 +8,7 @@
   * [Description and Task](#description)
   * [Technology](#technology)
   * [Video](#video)
-  * [Website](#table-of-contents)
+  * [Website](#website)
   * [License](#license)   
   * [Contributors](#Contributors)
   * [Questions](#questions)
