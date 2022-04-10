@@ -6,27 +6,28 @@
 
   ## Table-of-Contents
   * [Description and Task](#description)
-  * [Required](#required)
+  * [Technology](#technology)
+  * [Video](#video)
+  * [Website](#table-of-contents)
   * [License](#license)   
-  * [Contributors](#contributors)
-  * [Demo](#demo)
+  * [Contributors](#Contributors)
   * [Questions](#questions)
 
 
  ## [Description](#table-of-contents)
- WanderLust is a small scale social media platform for travelers and adventurers from all over the world. Our application's main features are as follows:
-
-- Creating individual user profiles
-- The ability to upload pictures, including from mobile devices
-- Ability to delete pictures
-- Image feed with images from different users from all over the world
-- Images being displayed with most recent at the top of the feed
-- User authentication
-- User Sessions
  
- ## [Required](#required)
-  NPM Install: Bcrypt, Connect-Session-Sequelize,Dotenv, Express, Express-fileupload, Express-Handlebars, Express-session, Handlebars, MySql2, Sequelize
+ ## WanderLust - Application Design and Concept
 
+ Have you ever been hesitant to share your ideas and creativities in the same boring 
+ social media platform? Or do you constantly worry about your privacy being sold?
+
+ In a world full of trolls, likes, dislikes and censorship, WanderLust.com is a platform
+ designed to display the creativity of individuals and businesses without the agony
+ of third party influences - also AD free.
+
+ Our idea is to have an app that inspires our visitors to take a break from the hustle and 
+ bustle of life and the pressure of social media likes and comments. To travel and 
+ adventure out to the world and hopefully, sign up and share back.
 
  # Our Task and Application Requirments
 
@@ -58,31 +59,34 @@
 
   - Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
+ ## [Technology](#technology)
 
-    Application Structuring:
-    ├──
-    ├── assest                  // rendered output (HTML), Images and CSS style sheet      
-    ├── .gitignore               // indicates which folders and files Git should ignore
-    ├── index.html               // runs the application
-    └── package.json           
+  - Node.js
+  - Express
+  - HandlebarsJS
+  - Bcrypt
+  - Dotenv
+  - Sequelize
+  - Mysql
+  - Express-fileupload
+  - Express-handlebars
 
+  ## [Video](#table-of-contents)
+  - Video Presentation - [video guide](https://www.awesomescreenshot.com/video/8212028?key=c7bd96a5e6b4bb979d54ddb8934fc0b9)
+
+  ## [Website](#table-of-contents)
+  Deployed Application: https://sleepy-meadow-10807.herokuapp.com/
   
-  ## [License](#license)
+  ## [License](#table-of-contents)
   The application is covered under the following license:
   
   [apache](https://choosealicense.com/licenses/apache)
     
     
-  ## [Contributors](#contributors)
+  ## [Contributors](#table-of-contents)
   
-    Rachel Schaaf, Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar Amezcua
+    Rachel Schaff, Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar A. 
     
-  ## [Demo](#demo)
-  <img src="./public/uploads/WanderLust.gif">
-
-
-  ## [Questions](#questions)
+  ## [Questions](#table-of-contents)
   Contact Information Below:
   [GitHub](https://github.com/ArbiNazari/WanderLust)
-
-  Deployed Application: https://sleepy-meadow-10807.herokuapp.com/
