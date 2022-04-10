@@ -1,39 +1,54 @@
-<main>
-
 <form method="POST" action="/dashboard" enctype="multipart/form-data" class="login-form">
-<div class="content">
-  <h2>Upload New Image</h2>
-  <div class="input-field"> <input  type="file" name="file" /> </div>
-  <div class="input-field"> <input class="input-field" type="text" name="title" placeholder="Image Title"/> </div>
-  <div class="input-field"><input class="input-field" type="text" name="description" placeholder="Description"/></div>
-  <div>  <input type="submit" class="button-59" value="Upload"/> </div>
-      
-    </form>
-    <br>
-</div>
+  <div class="content">
+    <h2>Upload New Image</h2>
 
+    <div class="file is-centered is-large is-boxed">
+      <label class="file-label">
+        <input class="file-input" type="file" name="name">
+        <span class="file-cta">
+          <span class="file-label">
+            Choose A Image...
+          </span>
+        </span>
+      </label>
+    </div>
+    <div class="input-field"> <input class="input is-primary is-focused" type="text" name="title"
+        placeholder="+ NAME YOUR IMAGE" /> </div>
+    <div class="input-field"> <input class="input is-primary is-focused" type="text" name="description"
+        placeholder="+ ADD A DISCRIPTION" /></div>
+  </div>
+  <div><input type="submit" class="button-59" value=" Upload" /> </div>
+</form>
+</br>
 
- {{#if posts.length}}
+{{#if posts.length}}
 <section>
-  <h2>Your Images</h2>
-  <ul class="post-list">
-  {{#each posts}}
-  <li>
-    <article class="post">
-      <div class="title">
-      </div>
-      <div class="meta">
-  <img src="data:image/png;base64,{{image}}"/>  
-        </div>
-          <button id = {{id}} class="button-59" onclick="deleteFormHandler(event)">Delete</button>
-    </article>
-   
+  <h2 class="button is-primary-light is-large">All Your Images</h2>
 
-  </li>
-  {{/each}}
-</ul>
+
+  {{#each posts}}
+  <div class="card">
+    <ul class="post-list">
+      <li>
+        <article class="post">
+          <div class="title">
+            <div class="media-content">
+            </div>
+          </div>
+          <div class="meta">
+</br>
+            <img src="data:image/png;base64,{{image}}" alt="Placeholder image" />
+          </div>
+          <button id={{id}} class="button-59" onclick="deleteFormHandler(event)">Delete</button>
+        </article>
+      </li>
+      {{/each}}
+      {{else}}
+      <h2 class="button is-primary-light is-large">You have no images! Choose a Image File And Upload it! </h2>
+    </ul>
+  </div>
+
 </section>
 {{/if}}
-</section>
 
 <script src="/javascript/delete-post.js"></script>
