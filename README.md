@@ -85,4 +85,4 @@
   Contact Information Below:
   [GitHub](https://github.com/ArbiNazari/WanderLust)
 
-  Deployed Application: https://stark-garden-15387.herokuapp.com/
+  Deployed Application: https://sleepy-meadow-10807.herokuapp.com/
