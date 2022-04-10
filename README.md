@@ -91,7 +91,6 @@
     
   ## [Questions](#table-of-contents)
   Contact Information Below:
-  Rachel Schaff, Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar A. 
   
   [GitHub](https://github.com/ArbiNazari/WanderLust): https://github.com/ArbiNazari/WanderLust
   
