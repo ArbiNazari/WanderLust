@@ -55,7 +55,7 @@
 
   - Protect API keys and sensitive information with environment variables.
 
-  - Have a clean repository that meets quality coding standards (file structure, naming conventions, best practices for class/id naming conventions, indentation, quality comments, etc.).
+  - Have a clean repository that meets quality coding standards (file structure, naming conventions, best practices for class/id naming conventions,      indentation, quality comments, etc.).
 
   - Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
@@ -91,4 +91,7 @@
     
   ## [Questions](#table-of-contents)
   Contact Information Below:
+  Rachel Schaff, Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar A. 
   [GitHub](https://github.com/ArbiNazari/WanderLust)
+  Deployed Application: https://sleepy-meadow-10807.herokuapp.com/
+
