@@ -72,7 +72,7 @@
   - Express-handlebars
 
   ## [Video](#table-of-contents)
-  - Video Presentation - [video guide](https://www.awesomescreenshot.com/video/8212028?key=c7bd96a5e6b4bb979d54ddb8934fc0b9)
+  - Video Presentation - [video guide](https://www.awesomescreenshot.com/video/8332867?key=1980a0154420b406d493ede0c11f6a33)
 
   ## [Website](#table-of-contents)
   Deployed Application: https://sleepy-meadow-10807.herokuapp.com/
