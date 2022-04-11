@@ -19,9 +19,9 @@
  ## WanderLust - Application Design and Concept
 
  Have you ever been hesitant to share your ideas and creativities in the same boring 
- social media platform? Or do you constantly worry about your privacy being sold?
+ social media platform? Or do you constantly worry about your private information being sold?
 
- In a world full of trolls, likes, dislikes and censorship, WanderLust.com is a platform
+ In a world full of internet trolls, likes, dislikes and censorship, WanderLust.com is a platform
  designed to display the creativity of individuals and businesses without the agony
  of third party influences - also AD free.
 
