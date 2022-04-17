@@ -14,7 +14,7 @@
   * [Questions](#questions)
 
 
- ## [Description](#table-of-contents)
+ ## [Description](#description)
  
  ## WanderLust - Application Design and Concept
 
@@ -71,25 +71,25 @@
   - Express-fileupload
   - Express-handlebars
 
-  ## [Video](#table-of-contents)
+  ## [Video](#video)
   - Video Presentation - [video guide](https://www.awesomescreenshot.com/video/8332867?key=1980a0154420b406d493ede0c11f6a33)
 
-  ## [Website](#table-of-contents)
+  ## [Website](#website)
   Deployed Application: https://sleepy-meadow-10807.herokuapp.com/
   
   ![main](https://user-images.githubusercontent.com/95839411/162623640-ef0618ae-6a04-44a7-b3c0-f3ae4b2467da.jpg)
   
-  ## [License](#table-of-contents)
+  ## [License](#license)
   The application is covered under the following license:
   
   [apache](https://choosealicense.com/licenses/apache)
     
     
-  ## [Contributors](#table-of-contents)
+  ## [Contributors](#contributors)
   
-    Rachel Schaff, Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar A. 
+    Lanika Thomas, Jose Lemuz, Nik Sharpio, Arbi Nazari, Edgar Amezcua, Rachel Schaaf. 
     
-  ## [Questions](#table-of-contents)
+  ## [Questions](#questions)
   Contact Information Below:
   
   [GitHub](https://github.com/ArbiNazari/WanderLust): https://github.com/ArbiNazari/WanderLust
