@@ -70,6 +70,7 @@
   - Mysql
   - Express-fileupload
   - Express-handlebars
+  - Bulma
 
   ## [Video](#video)
   - Video Presentation - [video guide](https://www.awesomescreenshot.com/video/8332867?key=1980a0154420b406d493ede0c11f6a33)
